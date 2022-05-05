@@ -6,4 +6,4 @@
 
 ✉️ Get in touch by connecting or messaging me on LinkedIn: https://www.linkedin.com/in/python-product-engineer/
 
-✏️ A woefully neglected blog: https://blog.baselin.es
+✏️ A woefully neglected blog: http://blog.baselin.es
